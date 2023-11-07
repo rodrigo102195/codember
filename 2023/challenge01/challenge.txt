@@ -1,0 +1,26 @@
+The Challenge
+A spy is sending encrypted messages.
+
+Your mission is to create a program that helps us search for patterns...
+
+The messages consist of words separated by spaces like this:
+cat dog dog car Cat DOg sun
+
+We need the program to return the number of times each word appears in the message, regardless of whether it's in uppercase or lowercase.
+
+The result will be a text string with the word and the number of times it appears in the message, in this format:
+cat2dog3car1sun1
+
+The words are ordered by their first appearance in the message!
+
+More Examples:
+keys house HOUSE house keys -> keys2house3
+cup cuP CuP cup -> cup2cuP1CuP1
+houses house houSehouses -> houses1house1houSe1
+
+How to Solve It
+
+Solve the message you'll find in this file: https://codember.dev/data/message_01.txt
+
+Submit your solution using the "submit" command in the terminal, for example like this:
+submit dog3cat3car1sun1
