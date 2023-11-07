@@ -12,6 +12,6 @@ Challenges resolution in Typescript for the game [codember](https://codember.dev
 
 ## Challenges table
 
-| Challenge |                   Solution                   |
-| :-------: | :------------------------------------------: |
-|    #01    | [CHALLENGE_01](2023/challenge01/js/index.js) |
+| Challenge |                 Solution                  |
+| :-------: | :---------------------------------------: |
+|    #01    | [CHALLENGE_01](2023/challenge01/index.ts) |
