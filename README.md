@@ -16,3 +16,4 @@ Challenges resolution in Typescript for the game [codember](https://codember.dev
 | :-------: | :---------------------------------------: |
 |    #01    | [CHALLENGE_01](2023/challenge01/index.ts) |
 |    #02    | [CHALLENGE_02](2023/challenge02/index.ts) |
+|    #02    | [CHALLENGE_03](2023/challenge03/index.ts) |
